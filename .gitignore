@@ -1,6 +1,6 @@
 ./test*.py
 ./*.zip
-./build/
+./build/*
 ./*.exe
 ./*.dll
 ./pypcap-1.2.1/*

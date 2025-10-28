@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\network_monitor.dir/objects.a
+D:\MSYS2\ucrt64\bin\ar.exe qc CMakeFiles\network_monitor.dir/objects.a @CMakeFiles\network_monitor.dir\objects1.rsp
+D:\MSYS2\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\network_monitor.dir/objects.a -Wl,--no-whole-archive -o network_monitor.exe -Wl,--out-implib,libnetwork_monitor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\network_monitor.dir\linkLibs.rsp

@@ -1,0 +1,1 @@
+..\python312\Scripts\pyinstaller.exe --add-data "build\network_monitor_dll.dll;."  --add-data "build\wpcap.dll;."  --add-data "build\libgcc_s_seh-1.dll;."  --add-data "build\libstdc++-6.dll;."  --add-data "build\libwinpthread-1.dll;."  -F test_qt_rebuild.py
