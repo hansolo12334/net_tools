@@ -5,3 +5,4 @@
 ./*.dll
 ./pypcap-1.2.1/*
 ./.vscode/*
+./*.db
