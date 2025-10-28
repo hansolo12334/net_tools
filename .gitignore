@@ -13,3 +13,8 @@ build/
 pypcap-1.2.1/
 .vscode/
 *.db
+*.spec
+wpdpack/docs/
+wpdpack/Examples-pcap/
+wpdpack/Examples-remote/
+wpdpack/Npcap_Guide.html
