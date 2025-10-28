@@ -1,0 +1,7 @@
+./test*.py
+./*.zip
+./build/
+./*.exe
+./*.dll
+./pypcap-1.2.1/*
+./.vscode/*
