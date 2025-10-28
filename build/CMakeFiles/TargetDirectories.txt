@@ -1,4 +1,0 @@
-D:/project/net_tools/build/CMakeFiles/network_monitor.dir
-D:/project/net_tools/build/CMakeFiles/network_monitor_dll.dir
-D:/project/net_tools/build/CMakeFiles/edit_cache.dir
-D:/project/net_tools/build/CMakeFiles/rebuild_cache.dir
